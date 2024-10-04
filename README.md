@@ -3,7 +3,7 @@
 Safe bindings for [rav1d](https://github.com/memorysafety/rav1d), originally a fork of [dav1d-rs](https://github.com/rust-av/dav1d-rs).
 
 ## Abandonded
-See <https://github.com/rerun-io/rav1d> instrad.
+See <https://github.com/rerun-io/rav1d> instead.
 
 ## Building
 
